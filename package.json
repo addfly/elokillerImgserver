@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-router": "^12.0.1",
+    "koa-static": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
